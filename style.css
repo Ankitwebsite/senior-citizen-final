@@ -1,0 +1,8 @@
+html, body {
+  height: 1960px;
+  width: 1960px;
+}
+ .jumbotron {
+        background-image: url("https://www.vmcdn.ca/f/files/baytoday/images/health/seniors-man-and-wsoman-from-behind-2016-shutterstock_338638163.jpg;w=960");
+        background-size: cover;
+      }

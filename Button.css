@@ -1,0 +1,48 @@
+body{
+  padding: 20px;
+  margin: 20px;
+}
+#button1{
+  background-color: #37d29e;
+  border: none;
+  position: absolute;
+  transform: translate(-17%, 650%);
+  top: 15%;
+  left: 10%;
+  padding: 5px 6px;
+  font-size: 30px;
+  font-weight: bold;
+}
+#button2{
+  background-color: #26e821;
+  border: none;
+  position: absolute;
+  transform: translate(-21%, 450%);
+  top: 15%;
+  left: 10%;
+  padding: 5px 6px;
+  font-size: 30px;
+  font-weight: bold;
+}
+#button3{
+  background-color: #4825f6f2;
+  border: none;
+  position: absolute;
+  transform: translate(-21%, 350%);
+  top: 15%;
+  left: 10%;
+  padding: 5px 6px;
+  font-size: 30px;
+  font-weight: bold;
+}
+#button4{
+  background-color: #8cba36;
+  border: none;
+  position: absolute;
+  transform: translate(-21%, 550%);
+  top: 15%;
+  left: 10%;
+  padding: 5px 6px;
+  font-size: 30px;
+  font-weight: bold;
+}

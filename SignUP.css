@@ -1,0 +1,32 @@
+body{
+  padding: 20px;
+  margin: 20px;
+}
+#Button6{
+  background-color: #84dc18;
+  border: none;
+  position: top-right;
+  transform: translate(1213%, -1092%);
+  top: 20%;
+  left: 10%;
+  padding: 2px 4px;
+  font-size: 25px;
+  font-weight: bold;
+}
+#Button7{
+  background-color: #23650b;
+  border: none;
+  position: top-right;
+  transform: translate(1504%, -988%);
+  top: 20%;
+  left: 10%;
+  padding: 2px 4px;
+  font-size: 25px;
+  font-weight: bold;
+}
+#Button{
+background-color: #16bb55;
+}
+#Button8{
+background-color: #18f76f;
+}

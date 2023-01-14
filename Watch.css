@@ -1,0 +1,15 @@
+body{
+  padding: 20px;
+  margin: 20px;
+}
+button{
+  background-color: #37d29e;
+  border: none;
+  position: absolute;
+  transform: translate(-27%, 420%);
+  top: 15%;
+  left: 10%;
+  padding: 5px 6px;
+  font-size: 30px;
+  font-weight: bold;
+}

@@ -1,0 +1,22 @@
+#Button10{
+  background-color: #84dc18;
+  border: none;
+  position: top-right;
+  transform: translate(1279%, -1267%);
+  top: 20%;
+  left: 10%;
+  padding: 2px 4px;
+  font-size: 25px;
+  font-weight: bold;
+}
+#Button11{
+  background-color: #106704;
+  border: none;
+  position: top-right;
+  transform: translate(1579%, -1164%);
+  top: 20%;
+  left: 10%;
+  padding: 2px 4px;
+  font-size: 25px;
+  font-weight: bold;
+}
